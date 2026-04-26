@@ -72,7 +72,7 @@ Go back to Install and select NikGapps-Core.
 
 Reboot System.
 # FOR LINEAGE RECOVERY
-3. ADB Command Reference
+ADB Command Reference
 If you prefer installing via ADB Sideload from your PC:
 1:Click format data and wipe everything one by one
 2:Click apply update and then apply update from adb
