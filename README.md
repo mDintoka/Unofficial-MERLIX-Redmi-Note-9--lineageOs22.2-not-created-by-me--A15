@@ -111,6 +111,5 @@ LineageOS Team
 
 Merlinx Community Developers
 
-NikGapps Project
-
 Special thanks to the original builders for keeping this device alive. This build is shared freely for the community.
+this rom is not created by me it was just extracted by me
